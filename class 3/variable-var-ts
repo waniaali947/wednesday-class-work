@@ -1,0 +1,5 @@
+var wania ="john"; //DECLARED VARIABLE
+
+var wania ="peter"; //RE-DECLARD VARIABLE
+console.log(wania);
+console.log(wania);
