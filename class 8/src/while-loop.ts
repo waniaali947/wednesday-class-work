@@ -1,0 +1,12 @@
+ let i = 1;
+ while(i<=10){
+    console.log(5,"x",i, "=", 5*i);
+    i++;
+ };
+ 
+ //do while
+ let j  = 11;
+ do {
+    console.log(5, "x", j, "=",  5*j );
+    j++;
+ }
